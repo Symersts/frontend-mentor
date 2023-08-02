@@ -1,2 +1,2 @@
-# frontend-mentor
-frontend-mentor projects and challenges
+# qr code component
+frontend-mentor project
